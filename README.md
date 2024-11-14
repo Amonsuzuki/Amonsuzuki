@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Amonsuzuki}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amonsuzuki
 )](https://github.com/anuraghazra/github-readme-stats)
 
