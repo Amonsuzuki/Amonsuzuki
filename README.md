@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amonsuzuki&theme=gruvbox)
 
+![](https://raw.githubusercontent.com/Amonsuzuki/Amonsuzuki/output/github-contribution-grid-snake.svg)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amonsuzuki&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
