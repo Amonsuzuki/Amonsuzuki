@@ -22,6 +22,7 @@ jobs:
           user: Amonsuzuki
           template: classic
           base: header, activity, community, repositories, metadata
+          config_padding: 0, 10 + 8%
           config_timezone: Asia/Tokyo
           plugin_achievements: yes
           plugin_achievements_display: detailed
