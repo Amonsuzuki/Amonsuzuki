@@ -18,5 +18,8 @@ Here are some ideas to get you started:
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amonsuzuki&layout=compact&count_private=true&show_icons=true&theme=onedark" />
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amonsuzuki&theme=gruvbox)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amonsuzuki&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
