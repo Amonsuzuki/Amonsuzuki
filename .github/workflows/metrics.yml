@@ -14,12 +14,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: "metrix 1"
+      - name: "metrics 1"
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: "metrix-1.svg"
+          filename: "metrics-1.svg"
 
           # Options
           user: Amonsuzuki
@@ -45,12 +45,12 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_sort: stars
       
-      - name: "metrix 2"
+      - name: "metrics 2"
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrix@latest
+        uses: lowlighter/metrics@latest
         with: 
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: "metrix-2.svg"
+          filename: "metrics-2.svg"
           plugin_isocalender: yes
           plugin_isocalender_duration: full-year
           
