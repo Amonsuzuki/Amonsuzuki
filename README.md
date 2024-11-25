@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/Amonsuzuki/Amonsuzuki/output/github-contribution-grid-snake.svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Amonsuzuki&theme=great-gatsby&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Amonsuzuki&theme=calm&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amonsuzuki&theme=onedark&column=7
