@@ -24,6 +24,8 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_padding: 0, 10 + 8%
           config_timezone: Asia/Tokyo
+          plugin_isocalender: yes
+          plugin_isocalender_duration: full-year
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
