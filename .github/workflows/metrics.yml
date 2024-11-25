@@ -21,7 +21,7 @@ jobs:
           # Options
           user: Amonsuzuki
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_padding: 0, 10 + 8%
           config_timezone: Asia/Tokyo
           plugin_isocalender: yes
