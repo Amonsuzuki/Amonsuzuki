@@ -75,4 +75,4 @@ jobs:
           ls -la
           chmod +x push-assets.bash
       - name: "commit metrics updates"
-        run: bash push-assets.bash
+        run: bash .github/scripts/push-assets.bash
