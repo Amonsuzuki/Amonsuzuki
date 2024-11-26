@@ -67,4 +67,4 @@ jobs:
         run: pwd
 
       - name: "commit metrics updates"
-        run: bash .github/scripts/push-assets.bash
+        run: bash push-assets.bash
