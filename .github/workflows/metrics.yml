@@ -1,5 +1,8 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
+concurrency:
+  group: metrics-${{ github.ref }}
+  cancel-in-progress: true
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
