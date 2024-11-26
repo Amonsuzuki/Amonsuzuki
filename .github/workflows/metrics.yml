@@ -20,8 +20,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: "metrics-1.svg"
-
-          # Options
           user: Amonsuzuki
           template: classic
           base: header, activity, community, repositories
@@ -51,6 +49,10 @@ jobs:
         with: 
           token: ${{ secrets.METRICS_TOKEN }}
           filename: "metrics-2.svg"
+          base: header
+          config_timezone: Asia/Tokyo
+          config_display: large
+          config_order: base.header, isocalender
           plugin_isocalender: yes
           plugin_isocalender_duration: full-year
           
