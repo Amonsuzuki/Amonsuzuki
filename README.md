@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 </p>
 -->
 
-![Metrics](/metrics-1.svg)
-![Metrics](/metrics-2.svg)
+![Metrics](/assets/metrics-1.svg)
+![Metrics](/assets/metrics-2.svg)
 
 
 
