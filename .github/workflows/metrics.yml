@@ -63,4 +63,4 @@ jobs:
           mv tmp/metrics-1.svg assets/
           mv tmp/metrics-2.svg assets/
       - name: "commit metrics updates"
-        run: zsh .github/scripts/push-assets.zsh
+        run: bash .github/scripts/push-assets.bash
