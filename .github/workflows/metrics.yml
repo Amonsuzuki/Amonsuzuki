@@ -60,6 +60,7 @@ jobs:
           sudo cp /metrics_renders/metrics-2.svg ./tmp/
           sudo chown -R "$USER:$USER" tmp
           sudo chmod 644 tmp/*.svg
+          [ ! -d assets ] && mkdir assets
           mv tmp/metrics-1.svg assets/
           mv tmp/metrics-2.svg assets/
       - name: "commit metrics updates"
