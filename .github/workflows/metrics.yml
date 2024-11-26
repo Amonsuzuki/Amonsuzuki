@@ -64,7 +64,9 @@ jobs:
           mv tmp/metrics-1.svg assets/
           mv tmp/metrics-2.svg assets/
       - name: "Check current directory"
-        run: pwd
-
+        run: |
+　　　　　pwd
+　　　　　ls -la
+          chmod +x push-assets.bash
       - name: "commit metrics updates"
         run: bash push-assets.bash
