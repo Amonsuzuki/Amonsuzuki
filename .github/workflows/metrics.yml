@@ -53,6 +53,6 @@ jobs:
           config_timezone: Asia/Tokyo
           config_display: large
           config_order: base.header, isocalender
-          plugin_isocalender: yes
-          plugin_isocalender_duration: full-year
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           
