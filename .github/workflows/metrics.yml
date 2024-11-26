@@ -73,6 +73,6 @@ jobs:
         run: |
           pwd
           ls -la
-          chmod +x push-assets.bash
+          chmod +x .github/scripts/push-assets.bash
       - name: "commit metrics updates"
         run: bash .github/scripts/push-assets.bash
