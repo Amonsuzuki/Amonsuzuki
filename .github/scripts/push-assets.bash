@@ -6,7 +6,7 @@ set -o pipefail
 git config user.name 'GitHub Action'
 git config user.email 'action@github.com'
 git add assets
-git add push-assets.bash
+git add .github/scripts/push-assets.bash
 # for debug
 git status
 git diff --staged --quiet assets || {
