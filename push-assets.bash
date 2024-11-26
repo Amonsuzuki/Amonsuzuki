@@ -10,6 +10,6 @@ git add assets
 git status
 git diff --staged --quiet assets || {
 	git commit -m 'Update metrics [skip ci]'
-	git pull origin main --rebase
+	git pull origin main --ff-only
 	git push
 }
