@@ -63,5 +63,8 @@ jobs:
           [ ! -d assets ] && mkdir assets
           mv tmp/metrics-1.svg assets/
           mv tmp/metrics-2.svg assets/
+      - name: Check current directory
+      run: pwd
+
       - name: "commit metrics updates"
         run: bash .github/scripts/push-assets.bash
